@@ -70,7 +70,11 @@ See more: https://stackoverflow.com/help/minimal-reproducible-example
 
 See https://www.apollographql.com/docs/rover/commands/supergraphs#federation-2-elv2-license
 
-(Run `$ rover` manually to accept, and try starting up again.)
+You can run this magic command to trigger the license accept prompt:
+
+```bash
+rover dev --name foo --schema foo.graphql --url http://foo
+```
 
 ### `cannot bind the router` startup error
 
