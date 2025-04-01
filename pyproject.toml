@@ -1,0 +1,22 @@
+[project]
+name = "strawberry-federation-playground"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Mark Larah",email = "mark@larah.me"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = "^3.13"
+dependencies = [
+    "strawberry-graphql[debug-server] (>=0.262.6,<0.263.0)",
+    "supervisor (>=4.2.5,<5.0.0)",
+    "black (>=25.1.0,<26.0.0)",
+]
+
+[tool.poetry]
+package-mode = false
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

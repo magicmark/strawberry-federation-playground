@@ -1,0 +1,8 @@
+federation_version: =2.4.7
+subgraphs:
+  business:
+    schema:
+      subgraph_url: http://localhost:8001
+  reviews:
+    schema:
+      subgraph_url: http://localhost:8002
