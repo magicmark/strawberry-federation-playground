@@ -1,6 +1,5 @@
 import typing
 import strawberry
-import sys
 
 # fake database :)
 ALL_BUSINESSES = [
