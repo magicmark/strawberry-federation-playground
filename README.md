@@ -14,7 +14,7 @@ Clone this repo and make changes to **instantly** see results, letting you rapid
 - Clone locally and make your changes to `subgraph_business.py` and `subgraph_review.py` (feel free to rename)!
 - Ensure you have [**poetry**](https://python-poetry.org/) installed.
 - Ensure you have [**rover**](https://www.apollographql.com/docs/rover/getting-started) installed.
-- Ensure you have [accepted the Rover ELv2 license](#rover-prompts-you-to-accept-the-terms-and-conditions-of-the-elv2-license)
+- Ensure you have [accepted the Rover ELv2 license](#rover-prompts-you-to-accept-the-terms-and-conditions-of-the-elv2-license).
 
 **Instructions**
 
