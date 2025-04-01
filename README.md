@@ -1,4 +1,4 @@
-# SFP (Strawberry Federation Playground)
+# Strawberry GraphQL Federation Playground
 
 Useful for understanding how Federation directives work and subgraph schemas interact with each other in a minimal setting.
 
@@ -100,3 +100,7 @@ rover      | error: --url <SUBGRAPH_URL> is required when not attached to a TTY
 ```
 
 Check `ps aux | grep router` and `kill -9` the old process.
+
+## Disclaimers
+
+This is not an official Strawberry or Apollo product, i'm just a fan :)
