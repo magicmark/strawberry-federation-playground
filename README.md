@@ -24,7 +24,7 @@ $ poetry install
 $ make start # (or `poetry run supervisord`)
 ```
 
-If you're using this to share a reproduction you can **fork this repository** and make changes 
+⚠️ If you're on a corporate VPN that intercepts DNS you may need to temporarily disconnect for `poetry install` to work.
 
 ### Playground
 
